@@ -1,0 +1,1 @@
+Esse projeto é uma Prova de conceito para a disciplina de Programação de Dispositivos Móveis de 2024.1. Ele explora o uso do ARCore da Google, que é um SDK para desenvolver tecnologias de Realidade Aumentada, e o ARSceneView, que é utilizado para facilitar o posicionamento de planos, pontos e modelos 3D nas superfícies que o ARCore cria.
